@@ -1,6 +1,6 @@
-### Olá Humano!
+### Olá!
 
-Meu nome é Thiago César, sou Potiguar apaixonado por tecnologia.
+Meu nome é Thiago César, sou Potiguar apaixonado por tecnologia. 
 
 Possuo vivência na programação, como HTML, CSS, JavaScript, REACT e NodeJs.
 
